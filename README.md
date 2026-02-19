@@ -6,7 +6,8 @@ Includes:
 
 ✅ PDF ingestion pipeline  
 ✅ MongoDB Atlas vector search  
-✅ LLM answer generation  
+✅ LLM answer generation  <img width="1024" height="1536" alt="attach" src="https://github.com/user-attachments/assets/867e1310-c880-4aba-bc91-47bf10f460f4" />
+
 ✅ Retrieved evidence display  
 ✅ Automated RAG evaluation (Faithfulness, Relevance, Recall, Precision)  
 ✅ Metrics visualization dashboard  
@@ -169,3 +170,4 @@ rag-project/
 
 #start command 
 **npm run **
+
